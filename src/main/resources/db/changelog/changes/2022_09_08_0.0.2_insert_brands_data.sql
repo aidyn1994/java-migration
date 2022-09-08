@@ -1,0 +1,1 @@
+INSERT INTO brands (name) VALUES ('Apple'), ('XIAOMI'), ('Samsung'), ('Nokia');
